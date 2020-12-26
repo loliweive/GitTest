@@ -1,1 +1,6 @@
  int
+ here is a good thing 
+ what is your problem?
+ are you kidding
+ no,i am serious
+ eof
